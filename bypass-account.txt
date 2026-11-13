@@ -1,0 +1,3 @@
+# Bypass login account: username, account ID or player UID.
+# Used only when the client login payload cannot be RSA-decrypted.
+249777204
