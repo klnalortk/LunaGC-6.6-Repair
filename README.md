@@ -65,4 +65,5 @@ Credit
 Proto Repository hk4e-protos
 Patch Repository hk4e-patch-universal
 Original Repository kitkat033Additional note: This repository has not been restored from the original one. It did not have complete functions before. Resources and the game itself need to be downloaded from it. It's worth mentioning that the encryption key has been removed in this version
+https://github.com/Rafs-kk/LunaGC-6.6
 
